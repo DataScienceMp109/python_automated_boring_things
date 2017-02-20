@@ -1,0 +1,5 @@
+link: http://stackoverflow.com/questions/25981703/pip-install-fails-with-connection-error-ssl-certificate-verify-failed-certi
+
+
+
+pip install --trusted-host pypi.python.org linkchecker
