@@ -3,3 +3,7 @@ link: http://stackoverflow.com/questions/25981703/pip-install-fails-with-connect
 
 
 pip install --trusted-host pypi.python.org linkchecker
+
+
+numpy array
+http://cs231n.github.io/python-numpy-tutorial/#numpy
