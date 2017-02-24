@@ -1,9 +1,14 @@
+
+
+(1) install python lib
+pip install --trusted-host pypi.python.org linkchecker
 link: http://stackoverflow.com/questions/25981703/pip-install-fails-with-connection-error-ssl-certificate-verify-failed-certi
 
 
-
-pip install --trusted-host pypi.python.org linkchecker
-
-
-numpy array
+(2) numpy array
 http://cs231n.github.io/python-numpy-tutorial/#numpy
+
+
+(3) Git
+https://www.youtube.com/watch?v=1zj0rT91UjA
+
